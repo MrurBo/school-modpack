@@ -1,6 +1,6 @@
 name = "Fuji (Essentials)"
 filename = "fuji-fabric-14.9.2-76a6f462a7-mc1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1TowMm2v/versions/TokOLqa9/fuji-fabric-14.9.2-76a6f462a7-mc1.20.1.jar"
