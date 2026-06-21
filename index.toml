@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/smc-packwizvalidate.pw.toml"
-hash = "1bfd5fbcc1c3276122f0cbc2472efb5fcf9896701607693f52ddf4757122fa8a"
+hash = "75e78746d86b2149311e9d89259678883d3cc4ff2f9d401d98abe914a70f8c06"
 metafile = true
 
 [[files]]
