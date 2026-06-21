@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "0f88e46eb7b6487e139e4cf9e75c3b6c2764ffea3a222655798a893399bdfa1a"
+hash = "de0454b353e8ce9445eb7197f4cc2e5326a706b092610e18e1d7a505342e6908"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-management.pw.toml"
-hash = "5f74332db22a2eda4c05a7469cf57af07438ccb3fbb016b1ba9131b7164e7a1a"
+hash = "5b503be320aa5e456d223c6d95d69c91b8b174b0c1d2b0b96678deb2b44fa3ae"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/smc-packwizvalidate.pw.toml"
-hash = "75e78746d86b2149311e9d89259678883d3cc4ff2f9d401d98abe914a70f8c06"
+hash = "63e663b43c79b31cf786093666eb4eeb28ba0b920fdca9ddc5888c4fa65b9bb7"
 metafile = true
 
 [[files]]
@@ -377,12 +377,12 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
+hash = "ff0e878ab51b6f39c2975a621b852811fca5fa0c80244de4e7ca406c3144a776"
 metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
+hash = "2cdde9cc2cf1b815741486835789c54ae098afe84dc5e25a099f18fabe9bfa34"
 metafile = true
 
 [[files]]
@@ -399,3 +399,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "04b4a609b231c9c93398aadfb26499c3209b2828c95e736e6453f800c1219fb9"
 metafile = true
+
+[[files]]
+file = "uv.lock"
+hash = "f7088f47c8072878ae3338967802487ea1e0632212914c7ef3b3ebdc42f24c41"

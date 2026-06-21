@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/yn9u3ypm/versions/66RxRZcI/graves-3.0.3%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "c76d26e1bd0b3ce48c211729662b940b99d3ab5d9661fe007625840152ca064262625090d152eff93e3c4588a4cd33d353c33c31bc111b43f87a71b25f45cba1"
+hash-format = "sha256"
+hash = "d606625c99a4e9becf743bf9d889aa1b9d65cce92ceedd158cb33169c695c46f"
 
 [update]
 [update.modrinth]
