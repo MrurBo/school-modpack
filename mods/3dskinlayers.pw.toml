@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/ehuN4Oh0/skinlayers3d-fabric-1.11.2-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "d27ba70fccd42bf73ccdc3fe080e9f17751a39afc41479d986e35660677b116393d3709413130541741869aaba77a60638eefe7f9588d37242c083ca1537014f"
+hash-format = "sha256"
+hash = "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96"
 
 [update]
 [update.modrinth]

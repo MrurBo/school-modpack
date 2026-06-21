@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/r4Knci2k/versions/o01QffwP/interiors-1.20.1-fabric-0.6.0.jar"
-hash-format = "sha512"
-hash = "dc54c24d378cec5414005e383e6112642fa00f938e47a3c508ea8090b51cabb669d08d519f0de86f24b45563f3a52c1d6022d9b9094b977b0ea713bde257202e"
+hash-format = "sha256"
+hash = "39bfd88ada3e309f07cebae097744446181f6afb596c807d7e8863f658e1ab57"
 
 [update]
 [update.modrinth]

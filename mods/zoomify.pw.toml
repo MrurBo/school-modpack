@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/PEJt9yRp/zoomify-2.15.2%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "341c1a94bc6f4db3adb56eee342f20170e6a4c3453e01031abcaa3a9cc92bc88ceaeaf67052209e0486764cf519787cbb4c53cfae726f4612c9b7e8ed1e2cf83"
+hash-format = "sha256"
+hash = "1ced9d57ac8fe273f541c7f3bb0226b3d7eb26b37cc719a3c80d1a6f26dfe095"
 
 [update]
 [update.modrinth]

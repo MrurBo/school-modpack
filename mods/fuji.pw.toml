@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1TowMm2v/versions/TokOLqa9/fuji-fabric-14.9.2-76a6f462a7-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "0d948a9b4a78fc1aef175653a464f9bb6eca467a685c7be5814bb97bfdc7154fad00e477db8a417277d7532fb103adf7b0b1376926db4089265b168ffb2492d8"
+hash-format = "sha256"
+hash = "f65dd8322582c2de0a1de71bfb0fb4b65e54fe0c75cff6d038f7f356947791be"
 
 [update]
 [update.modrinth]

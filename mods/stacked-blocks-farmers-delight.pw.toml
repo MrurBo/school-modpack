@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LQlQFBH9/versions/t6eTyRRo/stackedblocksfarmersdelight-25.02.13-1.20-fabric.jar"
-hash-format = "sha512"
-hash = "325c713840c70f84ac5d468f6e1b57ca0db3d1cc24ae642423c4feabe07b7bc040fd5bb04f5af2f7d681772f6ebd1157705a7916f238dbb87b5e77586ff36491"
+hash-format = "sha256"
+hash = "7c0888e6f0e809d51854131ea2f5c28bb54ae4c5ab2220b6a7324a1f401a2bb6"
 
 [update]
 [update.modrinth]

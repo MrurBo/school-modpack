@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/F5KlFcYy/mcpitanlib-3.7.1-1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "a62efbd73af50e548b0d1f98ae57ed3930a82217560cfb388f42cd20e3e3812ac43fffc4da5be33fd71af02c5893c35676f8a244a6367ea8bbc556c1be468a9c"
+hash-format = "sha256"
+hash = "9dca72efb379110d87135930149ae7c700d10ffc2a23bec9ea8fe4f655595d50"
 
 [update]
 [update.modrinth]

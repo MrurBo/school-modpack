@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/rqMUlH4I/createbigcannons-5.11.4-mc.1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "14895f9e5bbfd47e01cc80e0c39bb4f01f5b0a8afd98610361650417b19d0e0c21018e77e20a3c1187f5fc99742a75808e3a1d86c445228eefdc15b48704c98c"
+hash-format = "sha256"
+hash = "99e544c07ccca03bb20998b23dcaf99af91cb806b9fefb3df965f8d8cdeda3ec"
 
 [update]
 [update.modrinth]
