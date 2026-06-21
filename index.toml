@@ -306,6 +306,11 @@ hash = "a94bedf7505ddaee2835f0941f848da100e3e1ffbbe057d5337753a798ede0d7"
 metafile = true
 
 [[files]]
+file = "mods/restart-server.pw.toml"
+hash = "1e89db45da4d2a1d213f8f641182c5df664ba896f66313a24b2fbcea674d4161"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "81c67e0cd0eaed0662581db5a28bc5fcce9ca6fce5c88f709861852855d731be"
 metafile = true
