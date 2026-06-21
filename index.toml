@@ -331,6 +331,11 @@ hash = "dfa45be14b22bf382e1c4b0ad2a203bb73740097054841fc4c4cf28c13260502"
 metafile = true
 
 [[files]]
+file = "mods/smc-packwizvalidate.pw.toml"
+hash = "1bfd5fbcc1c3276122f0cbc2472efb5fcf9896701607693f52ddf4757122fa8a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "147e70cd61736b8f9098bb9ac8b63e802ac0c9fbef95fed7e288e50a88200de9"
 metafile = true
@@ -368,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
 hash = "df4486b75abb61f4ce43b3806febe3f78e62722db652a90cd360c33f67ab9664"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]

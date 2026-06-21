@@ -25,15 +25,24 @@ modslist = "\n"
 client = [x for x in mods if x["side"] == "client"]
 server = [x for x in mods if x["side"] == "server"]
 server = [x for x in mods if x["side"] == "both"]
+
+
+def generateString(mod):
+    try:
+        return f" * [**{mod['name']}**](https://modrinth.com/project/{mod['update']['modrinth']['mod-id']})\n"
+    except KeyError:
+        return f" * **{mod['name']}**\n"
+
+
 modslist += "\n## Client-sided\n"
 for mod in client:
-    modslist += f" * [**{mod['name']}**](https://modrinth.com/project/{mod['update']['modrinth']['mod-id']})\n"
+    modslist += generateString(mod)
 modslist += "\n## Server-sided\n"
 for mod in server:
-    modslist += f" * [**{mod['name']}**](https://modrinth.com/project/{mod['update']['modrinth']['mod-id']})\n"
+    modslist += generateString(mod)
 modslist += "\n## Both\n"
 for mod in server:
-    modslist += f" * [**{mod['name']}**](https://modrinth.com/project/{mod['update']['modrinth']['mod-id']})\n"
+    modslist += generateString(mod)
 
 with open("readme.md", "w", encoding="utf-16") as f:
     f.write(readme + modslist)
