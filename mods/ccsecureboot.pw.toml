@@ -1,0 +1,13 @@
+name = "CCSecureBoot"
+filename = "CCSecureBoot-1.0.2-fabric-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8S3qbPSr/versions/vKxhAnnL/CCSecureBoot-1.0.2-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "f34e934a7b612915be0f34d33f0333c70a02ce967a4fa4574e9e4f946ea1baeeebaffa5281fb0d348baa85d839f4d3f61110b020fe1533d14561cc50355d7186"
+
+[update]
+[update.modrinth]
+mod-id = "8S3qbPSr"
+version = "vKxhAnnL"

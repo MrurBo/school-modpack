@@ -1,0 +1,13 @@
+name = "CCNetworks"
+filename = "CCNetworks-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/88AW2C6J/versions/8MYkkNrS/CCNetworks-0.1.1.jar"
+hash-format = "sha512"
+hash = "931ce5091e66af5c5a6eef03af2f2bf1b260b4d167625e5b6505aede14a0624f590b6092edfdb15ad0b0ab8275a95da2da64680ba31e5ef5a25667ebb26caad4"
+
+[update]
+[update.modrinth]
+mod-id = "88AW2C6J"
+version = "8MYkkNrS"

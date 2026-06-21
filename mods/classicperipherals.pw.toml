@@ -1,0 +1,13 @@
+name = "Classic Peripherals"
+filename = "classicperipherals-0.5.1-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0AMrDjl/versions/EThgIMBg/classicperipherals-0.5.1-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "4da19e3c57927b9c74f2b1c15cc4c53b03433c34dfd5997b5a3435d5c54db048fc484df7669fe9edc0f75c77e5a969b53a974c4a1d2eb4d25b7a06fa0cfe3559"
+
+[update]
+[update.modrinth]
+mod-id = "F0AMrDjl"
+version = "EThgIMBg"
