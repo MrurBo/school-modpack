@@ -4,3 +4,4 @@ venv/
 README.md
 .python-version
 pyproject.toml
+uv.lock

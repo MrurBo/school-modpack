@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/smc-packwizvalidate.pw.toml"
-hash = "63e663b43c79b31cf786093666eb4eeb28ba0b920fdca9ddc5888c4fa65b9bb7"
+hash = "5e2770cfe35ba72fee514c15adc4c3f873c146e1503c979b41ffce2bf37a0f76"
 metafile = true
 
 [[files]]
@@ -399,7 +399,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "04b4a609b231c9c93398aadfb26499c3209b2828c95e736e6453f800c1219fb9"
 metafile = true
-
-[[files]]
-file = "uv.lock"
-hash = "f7088f47c8072878ae3338967802487ea1e0632212914c7ef3b3ebdc42f24c41"
