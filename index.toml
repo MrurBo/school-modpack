@@ -236,6 +236,11 @@ hash = "9ea84621321352b22b26115ac633a61e5685353da2148080ea685f78add670e8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "5f74332db22a2eda4c05a7469cf57af07438ccb3fbb016b1ba9131b7164e7a1a"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "0ba6a898d408aa0bfdaaf70721c1e46c47636e01ac7b5244b6b43994704882af"
 metafile = true
@@ -303,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a94bedf7505ddaee2835f0941f848da100e3e1ffbbe057d5337753a798ede0d7"
-metafile = true
-
-[[files]]
-file = "mods/restart-server.pw.toml"
-hash = "1e89db45da4d2a1d213f8f641182c5df664ba896f66313a24b2fbcea674d4161"
 metafile = true
 
 [[files]]

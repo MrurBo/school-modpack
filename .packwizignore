@@ -1,0 +1,6 @@
+precommit.py
+.venv/
+venv/
+README.md
+.python-version
+pyproject.toml
