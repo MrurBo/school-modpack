@@ -22,6 +22,7 @@ mods = sorted(
     key=lambda mod: mod["side"],
 )
 modslist = "\n"
+print([x["name"] for x in mods])
 client = [x for x in mods if x["side"] == "client"]
 server = [x for x in mods if x["side"] == "server"]
 server = [x for x in mods if x["side"] == "both"]

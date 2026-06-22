@@ -1,0 +1,13 @@
+name = "VinURL"
+filename = "vinurl-2.1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/OYIJyBR1/vinurl-2.1.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "47f63578a2ba14f2b3c0e185bdf9031647e9aa49c3f3fc3ca4110097dd78b20330b4ee46284dfa1eace93af57358684c12dc71e0c559c4db2685867d0d70c588"
+
+[update]
+[update.modrinth]
+mod-id = "5PsMUIsq"
+version = "OYIJyBR1"

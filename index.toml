@@ -46,6 +46,11 @@ hash = "0d46c8a286df21e071f43e8fac48f8a6e4316b5940db5fe84d262da79dab2d0c"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "2ca11ae14a6825895b32dd65c7dc84245a702b1ff21569eae61052c628204b50"
+metafile = true
+
+[[files]]
 file = "mods/ccdrones+.pw.toml"
 hash = "127675da1500dcfb00d3a9154d99c122f6222fbcc80648e3c366c5a4c1a6f949"
 metafile = true
@@ -146,6 +151,11 @@ hash = "f30ad3d9a9ec0f664c282b83c1d70200012242f4bdb3a0f723764d4779b77e25"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d118b2b3f43a8ba635b0d03bee0e4708182d200707eb8ec7e92395e37c26b07c"
 metafile = true
@@ -168,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "b71c76ffa998e0b75414d812ad232c063a78aacfc6598af6d8f7c04d35a575f0"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "7955184c810a890ffc44ab99f0fe9c97bfe4813204df0c4bf3545a8a6d35c29e"
 metafile = true
 
 [[files]]
@@ -221,6 +236,11 @@ hash = "de0454b353e8ce9445eb7197f4cc2e5326a706b092610e18e1d7a505342e6908"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e277f2a3bf28fd7d446a12f373a8142eabefb477e9dcbe02400ca4063d273520"
 metafile = true
@@ -246,6 +266,11 @@ hash = "0ba6a898d408aa0bfdaaf70721c1e46c47636e01ac7b5244b6b43994704882af"
 metafile = true
 
 [[files]]
+file = "mods/jade-vs.pw.toml"
+hash = "cb236e387c4e30770172a77f8e7e9f9f44fb8fe0562a0b5fc7e72c7d93abb3fd"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "8fe1ad7294240eb1fba18401054212f151713f9d0cac00a43115223684772194"
 metafile = true
@@ -263,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ad1ee586507a24117b37ef48cd15fb22ba5762ee50108f9a0b43c7df6e71dd05"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "55167e582fd4841cd6c581beb53d341e94285c216e04b1d7bff0068e875be2a6"
 metafile = true
 
 [[files]]
@@ -301,6 +331,11 @@ hash = "2360ea76442210de9c244a792fba5fee74b185d3410a141999fc676e9c57ae9a"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "5560b639b688f8f1cf3fa05723efbfc3c167b65461a9f972db93b2a52a96aa2f"
 metafile = true
@@ -323,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "d492084a09cb77a8bc9b7f9575c2e948a488d9bf9f5265df998b8551e879847e"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "c42d307747d88a2088ff06aaaa1a059becb851f92f3875e20191014a79a29d31"
 metafile = true
 
 [[files]]
@@ -376,6 +416,11 @@ hash = "ff0e878ab51b6f39c2975a621b852811fca5fa0c80244de4e7ca406c3144a776"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "a4acd311571559c158dcb90e8030289bf89942ede6efbba38f4f6096e2d2563d"
+metafile = true
+
+[[files]]
 file = "mods/tree-vein-miner.pw.toml"
 hash = "28508f258a96ddccb48449283346a5b11b2711f7c1fe2a0b6b0ed917c00f1c04"
 metafile = true
@@ -383,6 +428,26 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "2cdde9cc2cf1b815741486835789c54ae098afe84dc5e25a099f18fabe9bfa34"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "6e85d68220f2fb30dee6145afc169b950f67d6be7e0eee3c70b9fff9b0f5ba66"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "00399f9f3b9c8af1087a60bc60e098d93c9858a4d036a713ad1b5aed9b049572"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "151f70d66987dc7764d428528c00087de9338a712d6f60a7d72f076ef04d81f4"
+metafile = true
+
+[[files]]
+file = "mods/vs-tournament.pw.toml"
+hash = "77e43a312d3c761b5b571bbf311480b8a3f8ddcf48704c4d861d92f3e2cf3af4"
 metafile = true
 
 [[files]]
