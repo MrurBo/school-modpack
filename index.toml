@@ -331,11 +331,6 @@ hash = "dfa45be14b22bf382e1c4b0ad2a203bb73740097054841fc4c4cf28c13260502"
 metafile = true
 
 [[files]]
-file = "mods/smc-packwizvalidate.pw.toml"
-hash = "ac1954669bb1efe5f0a0872541369d9b25a86b132b0a807e8b5d950c4da67d33"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "147e70cd61736b8f9098bb9ac8b63e802ac0c9fbef95fed7e288e50a88200de9"
 metafile = true

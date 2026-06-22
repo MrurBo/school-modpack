@@ -1,8 +1,0 @@
-name = "smc-packwizvalidate"
-filename = "smc-packwizvalidate-1.2.4.jar"
-side = "both"
-
-[download]
-url = "https://github.com/MrurBo/smc-packwizvalidate/releases/download/v1.2.5/smc-packwizvalidate-1.2.4.jar"
-hash-format = "sha256"
-hash = "69c26a8697aca170be53ef221bdd85b18a3b58247036aaab5f9635c6a09c91b8"
