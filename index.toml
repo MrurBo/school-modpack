@@ -306,6 +306,11 @@ hash = "5560b639b688f8f1cf3fa05723efbfc3c167b65461a9f972db93b2a52a96aa2f"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "4dd885a9ca3f9a3f20ff2b13d4e4cf04dee51e364b09c4996fcfe0c63a84ccd1"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a94bedf7505ddaee2835f0941f848da100e3e1ffbbe057d5337753a798ede0d7"
 metafile = true

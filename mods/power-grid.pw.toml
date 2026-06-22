@@ -1,0 +1,13 @@
+name = "Create: Power Grid"
+filename = "powergrid-mc1.20.1-0.5.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eWiBLJ9R/versions/5RXy8PFp/powergrid-mc1.20.1-0.5.4.1.jar"
+hash-format = "sha512"
+hash = "a83c374df49effa8b00330a5a8c6cf3082a98ce0169e9e98668b6d2e3f3ef0329004304b67265a3fdcebb0ca32715a9c6a376718d066e04b61ab5ed24794082c"
+
+[update]
+[update.modrinth]
+mod-id = "eWiBLJ9R"
+version = "5RXy8PFp"
