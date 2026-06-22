@@ -376,6 +376,11 @@ hash = "ff0e878ab51b6f39c2975a621b852811fca5fa0c80244de4e7ca406c3144a776"
 metafile = true
 
 [[files]]
+file = "mods/tree-vein-miner.pw.toml"
+hash = "28508f258a96ddccb48449283346a5b11b2711f7c1fe2a0b6b0ed917c00f1c04"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "2cdde9cc2cf1b815741486835789c54ae098afe84dc5e25a099f18fabe9bfa34"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Tree Vein Miner"
+filename = "tree-vein-miner-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wEhW4ceB/versions/AttY5skW/tree-vein-miner-1.2.jar"
+hash-format = "sha512"
+hash = "d8f15f8d78c167224100357144b797adc4d15e97108ff6a8fba3340634faf2199186185e541dd078b3a22c0fba92b491e21d64e9ac98805caf016f67cfae0359"
+
+[update]
+[update.modrinth]
+mod-id = "wEhW4ceB"
+version = "AttY5skW"
