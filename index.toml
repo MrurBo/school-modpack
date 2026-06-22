@@ -366,11 +366,6 @@ hash = "fa3fb3dc2083b481cb767a9af9571fac5730f269220638d2f305b2bc77abc2b1"
 metafile = true
 
 [[files]]
-file = "mods/tab-was-taken.pw.toml"
-hash = "df4486b75abb61f4ce43b3806febe3f78e62722db652a90cd360c33f67ab9664"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "ff0e878ab51b6f39c2975a621b852811fca5fa0c80244de4e7ca406c3144a776"
 metafile = true
