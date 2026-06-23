@@ -176,11 +176,6 @@ hash = "b71c76ffa998e0b75414d812ad232c063a78aacfc6598af6d8f7c04d35a575f0"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "7955184c810a890ffc44ab99f0fe9c97bfe4813204df0c4bf3545a8a6d35c29e"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "bf1b93667b1dae0c221d27d9ee9b4c654fa65137bad6ea58d2bdffe974a19219"
 metafile = true
@@ -258,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "0ba6a898d408aa0bfdaaf70721c1e46c47636e01ac7b5244b6b43994704882af"
-metafile = true
-
-[[files]]
-file = "mods/jade-vs.pw.toml"
-hash = "cb236e387c4e30770172a77f8e7e9f9f44fb8fe0562a0b5fc7e72c7d93abb3fd"
 metafile = true
 
 [[files]]
