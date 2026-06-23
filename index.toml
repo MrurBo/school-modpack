@@ -446,11 +446,6 @@ hash = "151f70d66987dc7764d428528c00087de9338a712d6f60a7d72f076ef04d81f4"
 metafile = true
 
 [[files]]
-file = "mods/vs-tournament.pw.toml"
-hash = "77e43a312d3c761b5b571bbf311480b8a3f8ddcf48704c4d861d92f3e2cf3af4"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8b10b52d667d9e7b89dd18ff8f4d83c5d8ff5d883b86b845cc9f33fec64bb433"
 metafile = true
