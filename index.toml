@@ -46,11 +46,6 @@ hash = "0d46c8a286df21e071f43e8fac48f8a6e4316b5940db5fe84d262da79dab2d0c"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "2ca11ae14a6825895b32dd65c7dc84245a702b1ff21569eae61052c628204b50"
-metafile = true
-
-[[files]]
 file = "mods/ccdrones+.pw.toml"
 hash = "127675da1500dcfb00d3a9154d99c122f6222fbcc80648e3c366c5a4c1a6f949"
 metafile = true
@@ -341,6 +336,11 @@ hash = "5560b639b688f8f1cf3fa05723efbfc3c167b65461a9f972db93b2a52a96aa2f"
 metafile = true
 
 [[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "a4b1ccc33765a62276a74b4d28ec5d08fbe781d4ca30ca5b133b0143dbca7efe"
+metafile = true
+
+[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "4dd885a9ca3f9a3f20ff2b13d4e4cf04dee51e364b09c4996fcfe0c63a84ccd1"
 metafile = true
@@ -426,18 +426,13 @@ hash = "28508f258a96ddccb48449283346a5b11b2711f7c1fe2a0b6b0ed917c00f1c04"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "2cdde9cc2cf1b815741486835789c54ae098afe84dc5e25a099f18fabe9bfa34"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-relogs.pw.toml"
-hash = "6e85d68220f2fb30dee6145afc169b950f67d6be7e0eee3c70b9fff9b0f5ba66"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "00399f9f3b9c8af1087a60bc60e098d93c9858a4d036a713ad1b5aed9b049572"
 metafile = true
 
 [[files]]
